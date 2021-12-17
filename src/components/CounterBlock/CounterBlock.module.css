@@ -1,0 +1,10 @@
+.container{
+  width: 30%;
+  margin: 4rem auto ;
+  padding:  30px;
+  border: 10px solid aqua;
+  background-color: rgb(173, 230, 230);
+  text-align: center;
+  text-transform: uppercase;
+}
+

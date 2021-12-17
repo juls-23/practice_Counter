@@ -1,0 +1,13 @@
+.btn{
+  width: 10rem;
+  margin-bottom: 0.5rem;
+  border-radius: 30%;
+  background-color:rgb(212, 100, 100);
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.btn:hover{
+  background-color:rgb(184, 59, 59);
+  transform:scale3d(1.06,1.1,1.1)
+}
