@@ -1,7 +1,8 @@
 import './App.css';
+import React from 'react'
 import CounterBlock from './components/CounterBlock';
 
-function App(props) {
+function App() {
   return <>
   <CounterBlock />
   </>;
